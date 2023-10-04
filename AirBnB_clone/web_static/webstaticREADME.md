@@ -79,7 +79,7 @@ Write an HTML page that displays a header and a footer.
 - You are not allowed to use the style tag in the head tag
 - Use inline styling for all your tags
 
-**File:** [0-index.html](0-index.html)
+**File:** [0-index.html](/AirBnB_clone/web_static/0-index.html)
 </details>
 
 <details>
@@ -94,7 +94,7 @@ Write an HTML page that displays a header and a footer by using the style tag in
 - You must use the style tag in the head tag
 - The layout must be exactly the same as 0-index.html
 
-**File:** [1-index.html](1-index.html)
+**File:** [1-index.html](/AirBnB_clone/web_static/1-index.html)
 </details>
 
 <details>
@@ -111,7 +111,7 @@ Write an HTML page that displays a header and a footer by using CSS files (same 
   - styles/2-footer.css: for footer style
 - The layout must be exactly the same as 1-index.html
 
-**File:** [2-index.html](2-index.html), [styles/2-common.css](styles/2-common.css), [styles/2-header.css](styles/2-header.css), [styles/2-footer.css](styles/2-footer.css)
+**File:** [2-index.html](/AirBnB_clone/web_static/2-index.html), [styles/2-common.css](/AirBnB_clone/web_static/styles/2-common.css), [styles/2-header.css](/AirBnB_clone/web_static/styles/2-header.css), [styles/2-footer.css](/AirBnB_clone/web_static/styles/2-footer.css)
 </details>
 
 <details>
@@ -134,7 +134,7 @@ Write an HTML page that displays a header and footer by using CSS files (same as
 - height: 70px
 - width: 100%
 - border bottom 1px #CCCCCC
-- logo align on left and center vertically (20px space at the left)
+- logo ![link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/icon.png) align on left and center vertically (20px space at the left)
 - logo ![link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png)
 
 **Footer:**
@@ -155,7 +155,7 @@ Write an HTML page that displays a header and footer by using CSS files (same as
   - styles/3-header.css: for the header style
   - styles/3-footer.css: for the footer style
 
-**File:** [3-index.html](3-index.html), [styles/3-common.css](styles/3-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [images/](images/)
+**File:** [3-index.html](/AirBnB_clone/web_static/3-index.html), [styles/3-common.css](/AirBnB_clone/web_static/styles/3-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
@@ -208,7 +208,7 @@ Write an HTML page that displays a header, footer, and a filters box with a sear
   - styles/4-filters.css: for the filters style
 - 4-index.html won’t be W3C valid, don’t worry, it’s temporary
 
-**File:** [4-index.html](4-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/4-filters.css](styles/4-filters.css), [images/](images/)
+**File:** [4-index.html](/AirBnB_clone/web_static/4-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/4-filters.css](/AirBnB_clone/web_static/styles/4-filters.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
@@ -247,7 +247,7 @@ Write an HTML page that displays a header, footer, and a filters box.
   - styles/3-footer.css: for the footer style
   - styles/5-filters.css: for the filters style
 
-**File:** [5-index.html](5-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/5-filters.css](styles/5-filters.css), [images/](images/)
+**File:** [5-index.html](/AirBnB_clone/web_static/5-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [styles/5-filters.css](/AirBnB_clone/web_static/styles/5-filters.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
@@ -284,7 +284,7 @@ Update Locations and Amenities filters to display a contextual dropdown when the
   - styles/3-footer.css: for the footer style
   - styles/6-filters.css: for the filters style
 
-**File:** [6-index.html](6-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [images/](images/)
+**File:** [6-index.html](/AirBnB_clone/web_static/6-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [styles/6-filters.css](/AirBnB_clone/web_static/styles/6-filters.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
@@ -326,7 +326,7 @@ Add Places section:
   - styles/6-filters.css: for the filters style
   - styles/7-places.css: for the places style
 
-**File:** [7-index.html](7-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/7-places.css](styles/7-places.css), [images/](images/)
+**File:** [7-index.html](/AirBnB_clone/web_static/7-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [styles/6-filters.css](/AirBnB_clone/web_static/styles/6-filters.css), [styles/7-places.css](/AirBnB_clone/web_static/styles/7-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
@@ -397,7 +397,7 @@ Add more information to a Place article:
   - styles/6-filters.css: for the filters style
   - styles/8-places.css: for the places style
 
-**File:** [8-index.html](8-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/8-places.css](styles/8-places.css), [images/](images/)
+**File:** [8-index.html](/AirBnB_clone/web_static/8-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [styles/6-filters.css](/AirBnB_clone/web_static/styles/6-filters.css), [styles/8-places.css](/AirBnB_clone/web_static/styles/8-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
@@ -452,95 +452,46 @@ Add more information to a Place article:
   - styles/3-header.css: for the header style
   - styles/3-footer.css: for footer style
   - styles/6-filters.css: for the filters style
-  - styles/9-places.css: for the places style
+  - styles/100-places.css: for the places style
 
-**File:** [9-index.html](9-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/9-places.css](styles/9-places.css), [images/](images/)
+**File:** [100-index.html](/AirBnB_clone/web_static/100-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [styles/6-filters.css](/AirBnB_clone/web_static/styles/6-filters.css), [styles/100-places.css](/AirBnB_clone/web_static/styles/100-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
 <summary><strong>Task 10: Flex</strong></summary>
 
-Write an HTML page that displays a header, footer, a filters box with dropdown and results.
+Improve the Places section by using Flexible boxes[link](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) for all Place articles
 
-**Layout: (based on 9-index.html)**
+Flexbox Froggy [link](https://flexboxfroggy.com/)
 
-Update the Place article to use flex display (display: flex).
 
-**User information section:**
-- no border top
-- update margin top to 0
-
-**Price per night:**
-- border radius: 0px
-
-**Result of rating:**
-- no background color
-
-**Add a new section “Description”**
-
-**Description section:**
-- tag: div
-- classname: description
-- contains title and paragraph (same as 9-index.html)
-
-**Requirements:**
-- You must use: header, footer, section, article, button, h1, h2, h3, h4, ul, li tags
-- No inline style
-- You are not allowed to use the img tag
-- You are not allowed to use the style tag in the head tag
-- All images must be stored in the images folder
-- You must have 5 CSS files:
-  - styles/4-common.css: for the global style (i.e., body and .container styles)
-  - styles/3-header.css: for the header style
-  - styles/3-footer.css: for footer style
-  - styles/6-filters.css: for the filters style
-  - styles/10-places.css: for the places style
-
-**File:** [10-index.html](10-index.html), [styles/4-common.css](styles/4-common.css), [styles/3-header.css](styles/3-header.css), [styles/3-footer.css](styles/3-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/10-places.css](styles/10-places.css), [images/](images/)
+**File:** [101-index.html](/AirBnB_clone/web_static/101-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [styles/6-filters.css](/AirBnB_clone/web_static/styles/6-filters.css), [styles/101-places.css](/AirBnB_clone/web_static/styles/101-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
 <summary><strong>Task 11: Responsive design</strong></summary>
 
-Write an HTML page that displays a header, footer, a filters box with dropdown and results.
+Improve the page by adding responsive design to display correctly in mobile or small screens.
 
-**Layout: (based on 10-index.html)**
+Examples:
 
-Update the CSS of each element to make the page responsive.
-
-**Requirements:**
-- You must use: header, footer, section, article, button, h1, h2, h3, h4, ul, li tags
-- No inline style
-- You are not allowed to use the img tag
-- You are not allowed to use the style tag in the head tag
-- All images must be stored in the images folder
-- You must have 5 CSS files:
-  - styles/4-common.css: for the global style (i.e., body and .container styles)
-  - styles/11-header.css: for the header style
-  - styles/11-footer.css: for footer style
-  - styles/6-filters.css: for the filters style
-  - styles/11-places.css: for the places style
-
-**File:** [11-index.html](11-index.html), [styles/4-common.css](styles/4-common.css), [styles/11-header.css](styles/11-header.css), [styles/11-footer.css](styles/11-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/11-places.css](styles/11-places.css), [images/](images/)
+      - no horizontal scrolling
+      - redesign search bar depending of the width
+      - etc.
+**File:** [102-index.html](/AirBnB_clone/web_static/102-index.html), [styles/102-common.css](/AirBnB_clone/web_static/styles/102-common.css), [styles/102-header.css](/AirBnB_clone/web_static/styles/102-header.css), [styles/102-footer.css](/AirBnB_clone/web_static/styles/102-footer.css), [styles/102-filters.css](/AirBnB_clone/web_static/styles/102-filters.css), [styles/102-places.css](/AirBnB_clone/web_static/styles/102-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 <details>
 <summary><strong>Task 12: Accessibility</strong></summary>
 
-Write an HTML page that displays a header, footer, a filters box with dropdown and results.
+Improve the page by adding Accessibility support
 
-**Layout: (based on 11-index.html)**
+Examples:
 
-Add and configure VoiceOver to access the page on Mac.
-
-**Requirements:**
-- Make sure you’re on a Mac device with VoiceOver
-- Open Safari or Google Chrome browser
-- Enable VoiceOver (you can use the `command + F5` keyboard shortcut)
-- Open the 11-index.html file
-- Make sure it’s possible to navigate between all the input fields and buttons with VoiceOver
-
-**File:** [11-index.html](11-index.html), [styles/4-common.css](styles/4-common.css), [styles/11-header.css](styles/11-header.css), [styles/11-footer.css](styles/11-footer.css), [styles/6-filters.css](styles/6-filters.css), [styles/11-places.css](styles/11-places.css), [images/](images/)
+Colors contrast
+Header tags
+etc.
+**File:** [103-index.html](/AirBnB_clone/web_static/103-index.html), [styles/103-common.css](/AirBnB_clone/web_static/styles/103-common.css), [styles/103-header.css](/AirBnB_clone/web_static/styles/103-header.css), [styles/103-footer.css](/AirBnB_clone/web_static/styles/103-footer.css), [styles/103-filters.css](/AirBnB_clone/web_static/styles/103-filters.css), [styles/103-places.css](/AirBnB_clone/web_static/styles/103-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
 
 
