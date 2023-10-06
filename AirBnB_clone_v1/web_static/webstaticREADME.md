@@ -1,6 +1,7 @@
 # Project: Web Static - Airbnb Clone
 
 ## Table of Contents
+
 - [Background Context](#background-context)
 - [Resources](#resources)
 - [Tasks](#tasks)
@@ -21,6 +22,7 @@
 ---
 
 ## Background Context
+
 Web static, what?
 Now that you have a command interpreter for managing your AirBnB objects, it’s time to make them alive!
 
@@ -38,7 +40,9 @@ During this project, you will learn how to manipulate HTML and CSS languages. HT
 Before starting, please fork or clone the repository AirBnB_clone from your partner if you were not the owner of the previous project.
 
 ## Resources
+
 Read or watch:
+
 - [Learn to Code HTML & CSS (until “Creating Lists” included)](https://learn.shayhowe.com/html-css/)
 - [Inline Styles in HTML](https://www.codecademy.com/article/html-inline-styles)
 - [Specifics on CSS Specificity](https://css-tricks.com/specifics-on-css-specificity/)
@@ -58,15 +62,18 @@ Write an HTML page that displays a header and a footer.
 **Layout:**
 
 **Body:**
+
 - no margin
 - no padding
 
 **Header:**
+
 - color #FF0000 (red)
 - height: 70px
 - width: 100%
 
 **Footer:**
+
 - color #00FF00 (green)
 - height: 60px
 - width: 100%
@@ -74,6 +81,7 @@ Write an HTML page that displays a header and a footer.
 - always at the bottom at the page
 
 **Requirements:**
+
 - You must use the header and footer tags
 - You are not allowed to import any files
 - You are not allowed to use the style tag in the head tag
@@ -88,6 +96,7 @@ Write an HTML page that displays a header and a footer.
 Write an HTML page that displays a header and a footer by using the style tag in the head tag (same as 0-index.html).
 
 **Requirements:**
+
 - You must use the header and footer tags
 - You are not allowed to import any files
 - No inline styling
@@ -103,6 +112,7 @@ Write an HTML page that displays a header and a footer by using the style tag in
 Write an HTML page that displays a header and a footer by using CSS files (same as 1-index.html).
 
 **Requirements:**
+
 - You must use the header and footer tags
 - No inline styling
 - You must have 3 CSS files:
@@ -122,6 +132,7 @@ Write an HTML page that displays a header and footer by using CSS files (same as
 **Layout:**
 
 **Common:**
+
 - no margin
 - no padding
 - font color: #484848
@@ -130,6 +141,7 @@ Write an HTML page that displays a header and footer by using CSS files (same as
 - icon in the browser tab
 
 **Header:**
+
 - color: white
 - height: 70px
 - width: 100%
@@ -138,6 +150,7 @@ Write an HTML page that displays a header and footer by using CSS files (same as
 - logo ![link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher-level_programming+/268/logo.png)
 
 **Footer:**
+
 - color white
 - height: 60px
 - width: 100%
@@ -146,6 +159,7 @@ Write an HTML page that displays a header and footer by using CSS files (same as
 - always at the bottom at the page
 
 **Requirements:**
+
 - No inline style
 - You are not allowed to use the img tag
 - You are not allowed to use the style tag in the head tag
@@ -166,6 +180,7 @@ Write an HTML page that displays a header, footer, and a filters box with a sear
 **Layout: (based on 3-index.html)**
 
 **Container:**
+
 - between header and footer tags, add a div:
   - classname: container
   - max width 1000px
@@ -173,6 +188,7 @@ Write an HTML page that displays a header, footer, and a filters box with a sear
   - center horizontally
 
 **Filter section:**
+
 - tag section
 - classname filters
 - inside the .container
@@ -182,6 +198,7 @@ Write an HTML page that displays a header, footer, and a filters box with a sear
 - border 1px #DDDDDD with radius 4px
 
 **Button search:**
+
 - tag button
 - text Search
 - font size: 18px
@@ -196,6 +213,7 @@ Write an HTML page that displays a header, footer, and a filters box with a sear
 - change opacity to 90% when the mouse is on the button
 
 **Requirements:**
+
 - You must use: header, footer, section, button tags
 - No inline style
 - You are not allowed to use the img tag
@@ -219,6 +237,7 @@ Write an HTML page that displays a header, footer, and a filters box.
 **Layout: (based on 4-index.html)**
 
 **Locations and Amenities filters:**
+
 - tag: div
 - classname: locations for location tag and amenities for the other
 - inside the section filters (same level as the button Search)
@@ -236,6 +255,7 @@ Write an HTML page that displays a header, footer, and a filters box.
   - text with fake contents
 
 **Requirements:**
+
 - You must use: header, footer, section, button, h3, h4 tags
 - No inline style
 - You are not allowed to use the img tag
@@ -258,6 +278,7 @@ Write an HTML page that displays a header, footer, and a filters box with dropdo
 **Layout: (based on 5-index.html)**
 
 Update Locations and Amenities filters to display a contextual dropdown when the mouse is on the filter div:
+
 - tag ul
 - classname popover
 - text should be fake now
@@ -269,10 +290,12 @@ Update Locations and Amenities filters to display a contextual dropdown when the
 - no list display
 
 **Location filter has 2 levels of ul/li:**
+
 - state -> cities
 - state name must be display in an h2 tag (font size 16px)
 
 **Requirements:**
+
 - You must use: header, footer, section, button, h3, h4, ul, li tags
 - No inline style
 - You are not allowed to use the img tag
@@ -295,6 +318,7 @@ Write an HTML page that displays a header, footer, a filters box with dropdown a
 **Layout: (based on 6-index.html)**
 
 Add Places section:
+
 - tag: section
 - classname: places
 - same level as the filters section, inside .container
@@ -314,6 +338,7 @@ Add Places section:
     - center horizontally
 
 **Requirements:**
+
 - You must use: header, footer, section, article, button, h1, h2, h3, h4, ul, li tags
 - No inline style
 - You are not allowed to use the img tag
@@ -339,6 +364,7 @@ Write an HTML page that displays a header, a footer, a filter box (dropdown list
 Add more information to a Place article:
 
 **Price by night:**
+
 - tag: div
 - classname: price_by_night
 - same level as the place name
@@ -350,6 +376,7 @@ Add more information to a Place article:
 - align: the top right (with space)
 
 **Information section:**
+
 - tag: div
 - classname: information
 - height: 80px
@@ -375,16 +402,19 @@ Add more information to a Place article:
     - icon [link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher_level_programming+/268/icon_bath.png)
 
 **User section:**
+
 - tag: div
 - classname: user
 - text Owner: <fake text>
 - Owner text should be in bold
 
 **Description section:**
+
 - tag: div
 - classname: description
 
 **Requirements:**
+
 - You must use: header, footer, section, article, button, h1, h2, h3, h4, ul, li tags
 - No inline style
 - You are not allowed to use the img tag
@@ -410,6 +440,7 @@ Write an HTML page that displays a header, footer, a filters box with dropdown a
 Add more information to a Place article:
 
 **List of Amenities:**
+
 - tag div
 - classname amenities
 - margin top 40px
@@ -425,6 +456,7 @@ Add more information to a Place article:
     - icons on the left: Pet friendly ![link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher_level_programming+/268/icon_pets.png), TV ![link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher_level_programming+/268/icon_tv.png), Wifi ![link](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-higher_level_programming+/268/icon_wifi.png), etc… feel free to add more
 
 **List of Reviews:**
+
 - tag div
 - classname reviews
 - margin top 40px
@@ -442,6 +474,7 @@ Add more information to a Place article:
       - p tag for the text (font size 12px)
 
 **Requirements:**
+
 - You must use: header, footer, section, article, button, h1, h2, h3, h4, ul, li tags
 - No inline style
 - You are not allowed to use the img tag
@@ -463,7 +496,6 @@ Add more information to a Place article:
 Improve the Places section by using Flexible boxes[link](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Flexible_Box_Layout/Basic_Concepts_of_Flexbox) for all Place articles
 
 Flexbox Froggy [link](https://flexboxfroggy.com/)
-
 
 **File:** [101-index.html](/AirBnB_clone/web_static/101-index.html), [styles/4-common.css](/AirBnB_clone/web_static/styles/4-common.css), [styles/3-header.css](/AirBnB_clone/web_static/styles/3-header.css), [styles/3-footer.css](/AirBnB_clone/web_static/styles/3-footer.css), [styles/6-filters.css](/AirBnB_clone/web_static/styles/6-filters.css), [styles/101-places.css](/AirBnB_clone/web_static/styles/101-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
@@ -493,5 +525,3 @@ Header tags
 etc.
 **File:** [103-index.html](/AirBnB_clone/web_static/103-index.html), [styles/103-common.css](/AirBnB_clone/web_static/styles/103-common.css), [styles/103-header.css](/AirBnB_clone/web_static/styles/103-header.css), [styles/103-footer.css](/AirBnB_clone/web_static/styles/103-footer.css), [styles/103-filters.css](/AirBnB_clone/web_static/styles/103-filters.css), [styles/103-places.css](/AirBnB_clone/web_static/styles/103-places.css), [images/](/AirBnB_clone/web_static/images/)
 </details>
-
-
